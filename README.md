@@ -48,8 +48,6 @@ Read the joblib file and load it into the memory. Then create a relevant prompt 
 ##5. Sceenshots
 Show what the output looks like. - ![Alt text](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
 
-Example: ![Output Preview](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
-
 
 
 
