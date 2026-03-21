@@ -26,6 +26,9 @@ A RAG-based AI Teaching Assistant that processes video content using Whisper, co
 * ⚡ Fast similarity search using cosine similarity
 * 🤖 Generates contextual answers using LLM
 
+## 5. Sceenshots
+Show what the output looks like. - ![Alt text](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
+
 # How to use this RAG Based AI Teaching assistant on your own data
 ## Step 1 - Collect your videos
 Move all your video files to the videos folder
@@ -43,10 +46,6 @@ Use the file read_chunks.py to convert the json files to a dataframe with Embedd
 
 
 Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM
-
-
-## 5. Sceenshots
-Show what the output looks like. - ![Alt text](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
 
 
 
