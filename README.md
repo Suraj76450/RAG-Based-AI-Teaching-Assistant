@@ -27,7 +27,7 @@ A RAG-based AI Teaching Assistant that processes video content using Whisper, co
 * 🤖 Generates contextual answers using LLM
 
 ## 5. Sceenshots
-Show what the output looks like. - ![Alt text](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
+output looks like. - ![Alt text](https://github.com/Suraj76450/RAG-Based-AI-Teaching-Assistant/blob/main/Output.png)
 
 # How to use this RAG Based AI Teaching assistant on your own data
 ## Step 1 - Collect your videos
